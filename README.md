@@ -13,7 +13,7 @@ IOs and Android
 - [Subscribe](https://www.youtube.com/channel/UCKG4m2O5Og7RgFMcIkOzqWw) `Subscribe for more`
 
   ## Web
-- [Amusoftech](https://topkblogs.in/) `Visit us`
+- [Joshi IT Solutions](https://topkblogs.in/) `Visit us`
 
   
 ## Requirements
